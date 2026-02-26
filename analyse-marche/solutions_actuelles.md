@@ -1,6 +1,6 @@
 # 📈 Analyse Stratégique du Marché : IA & Rééducation post-opération
 
-Cette section détaille l'opportunité de marché identifiée et le positionnement disruptif de notre solution de **Bio-Feedback IA** face aux géants actuels de la Sports Tech.
+Cette section détaille l'opportunité de marché identifiée et le positionnement disruptif de ma solution de **Bio-Feedback IA** face aux géants actuels de la Sports Tech.
 
 ![Analyse de Marché](market_analysis_viz.jpg.png)
 
