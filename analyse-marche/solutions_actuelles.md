@@ -1,4 +1,4 @@
-# 📈 Analyse Stratégique du Marché : IA & Rééducation Musculo-Squelettique
+# 📈 Analyse Stratégique du Marché : IA & Rééducation post-opération
 
 Cette section détaille l'opportunité de marché identifiée et le positionnement disruptif de notre solution de **Bio-Feedback IA** face aux géants actuels de la Sports Tech.
 
