@@ -15,7 +15,7 @@ La rééducation classique repose sur des protocoles temporels (ex: "attendre 6 
 ## 📊 Analyse de Données : Baseline vs Rééducation
 Le graphique ci-dessous illustre comment l'IA permet de piloter la charge de travail pour atteindre les standards d'un joueur professionnel de manière optimale.
 
-![Analyse de données](graphique.png)
+![Analyse de données](graphique.png.png)
 > *Note : Ce graphique compare la puissance explosive (W/kg) d'un profil pro type avec le suivi optimisé par IA d'un athlète en rééducation.*
 
 ## 🛠 Solutions Actuelles & Veille Technologique
