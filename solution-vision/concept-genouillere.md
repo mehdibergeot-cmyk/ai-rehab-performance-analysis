@@ -13,7 +13,7 @@ L'objectif est de combler le fossé entre la salle de kiné et le terrain. Contr
 * **Edge IA :** Le traitement des données se fait directement sur le microprocesseur de la genouillère. **Bénéfice :** Une latence de moins de 10ms, seuil critique pour intervenir avant que le ligament ne subisse une contrainte excessive.
 * **Algorithme "Gold Standard" :** Comparaison en temps réel avec une base de données biomécaniques d'athlètes sains de morphotype équivalent.
 
-![Concept Genouillère IA](smart-brace-vision.png)
+![Concept Genouillère IA](smart-brace-vision.png.png)
 *Figure 1 : Schéma conceptuel de l'intégration des capteurs IMU et du système de feedback haptique.*
 
 ---
