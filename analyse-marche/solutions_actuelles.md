@@ -22,7 +22,7 @@ L'analyse radar met en évidence un déséquilibre critique dans l'offre actuell
 ## 3. Positionnement Stratégique : L'Océan Bleu du Temps Réel
 Ma proposition de **Genouillère IA** occupe le segment le plus stratégique : **Haute Précision + Haute Accessibilité + Feedback Instantané**.
 
-* **Feedback Haptique & Proprioception :** Contrairement aux systèmes passifs, ma solution intervient sur le système neuromusculaire de l'athlète. Si l'IA détecte une instabilité, l'athlète le *sent* immédiatement. C'est une révolution pour la rééducation du LCA (Ligament Croisé Antérieur) où la confiance en l'appui est le principal frein.
+* **Feedback Haptique & Proprioception :** Contrairement aux systèmes passifs, notre solution intervient sur le système neuromusculaire de l'athlète. Si l'IA détecte une instabilité, l'athlète le *sent* immédiatement. C'est une révolution pour la rééducation du LCA (Ligament Croisé Antérieur) où la confiance en l'appui est le principal frein.
 * **Réduction de la "Latence Clinique" :** En automatisant l'analyse biomécanique, on permet au kinésithérapeute de se concentrer sur le soin manuel tout en laissant l'IA assurer la surveillance technique de l'exercice.
 
 ## 4. Synthèse Comparative des Avantages Concurrentiels
