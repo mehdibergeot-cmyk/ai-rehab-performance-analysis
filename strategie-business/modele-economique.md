@@ -30,7 +30,7 @@ Le HaaS génère de la **prévisibilité financière** (ARR stable) tout en abai
 | **Certification Médicale** | ISO 13485 + Marquage CE — dossier technique + tests cliniques | 🔴 Critique |
 | **Propriété Intellectuelle** | Brevet algorithme bio-feedback haptique + protection marque | 🟠 Élevée |
 
-> ⚠️ Le Marquage CE n'est pas optionnel — c'est le sésame pour accéder au marché médical européen.
+> ⚠️ Le Marquage CE n'est pas optionnel —  pour accéder au marché médical européen.
 
 ### 🟢 Opex — Coûts Annuels (Phase de Lancement)
 
