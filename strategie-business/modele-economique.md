@@ -115,7 +115,7 @@ Le graphique en "J-Curve" ci-dessous modélise nos projections sur les 3 premiè
 ---
 
 ## 1. La Phase d'Amorçage : La "Zone de Perte" (T0 - T5)
-Le graphique met en évidence une structure de coûts initiaux élevée (ligne en pointillés gris), démarrant à **100 k€** au lancement (T0). Cette "vallée de la mort" classique en DeepTech est assumée et financée par la levée de fonds (Seed). 
+Le graphique met en évidence une structure de coûts initiaux élevée (ligne en pointillés gris), démarrant à **100 k€** au lancement (T0). Cette "Zone de perte" classique en DeepTech est assumée et financée par la levée de fonds (Seed). 
 
 * **Justification des coûts :** Ils englobent la R&D finale de l'IA embarquée, la production des premiers prototypes, et surtout le coût incompressible de la **Certification Médicale (Marquage CE)**.
 * **Évolution :** Ces coûts de structure diminuent progressivement avec le temps grâce aux économies d'échelle et à la fin des lourds investissements de R&D initiaux.
