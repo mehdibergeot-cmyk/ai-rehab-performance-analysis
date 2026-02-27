@@ -103,5 +103,46 @@ Un produit MedTech ne se lance pas seul — la crédibilité clinique est un act
 > - L'**évangélisation** auprès des prescripteurs clés (chirurgiens, kinés référents)
 >
 > Le commercial est le pont entre la technologie et l'adoption clinique réelle.
+# 📊 Analyse Financière : Le Modèle HaaS (Hardware-as-a-Service)
+
+L'adoption d'un modèle économique hybride (HaaS) est au cœur de la stratégie de viabilité d'**Active-Sense**. Ce modèle combine la vente d'équipements physiques (Hardware) avec des abonnements logiciels récurrents (SaaS). 
+
+Le graphique en "J-Curve" ci-dessous modélise nos projections sur les 3 premières années (T0 à T12 trimestres).
+
+![Modèle Financier J-Curve](jcurve_haas_activesense_v2.jpg)
+*Figure 1 : Modélisation de la rentabilité croisée Hardware/SaaS et seuil de rentabilité.*
+
+---
+
+## 1. La Phase d'Amorçage : La "Zone de Perte" (T0 - T5)
+Le graphique met en évidence une structure de coûts initiaux élevée (ligne en pointillés gris), démarrant à **100 k€** au lancement (T0). Cette "vallée de la mort" classique en DeepTech est assumée et financée par la levée de fonds (Seed). 
+
+* **Justification des coûts :** Ils englobent la R&D finale de l'IA embarquée, la production des premiers prototypes, et surtout le coût incompressible de la **Certification Médicale (Marquage CE)**.
+* **Évolution :** Ces coûts de structure diminuent progressivement avec le temps grâce aux économies d'échelle et à la fin des lourds investissements de R&D initiaux.
+
+## 2. Le Point de Bascule : Le Seuil de Rentabilité (Break-Even à ≈ T5)
+Le point d'inflexion majeur du projet se situe autour du 5ème trimestre (T5). 
+* À ce stade, le **Revenu Total combiné** (courbe verte) croise la courbe des coûts totaux. 
+* L'entreprise devient financièrement autonome : les revenus générés par les premières ventes aux clubs d'élite et cliniques partenaires couvrent l'intégralité des charges opérationnelles.
+
+## 3. Analyse des Flux de Revenus (Hardware vs SaaS)
+
+### A. La Traction Matérielle : Le Hardware (Courbe Rouge)
+* **Dynamique :** Croissance **linéaire**.
+* **Objectif Année 3 :** Atteindre **101 k€** de revenus matériels.
+* **Analyse :** La vente des genouillères est notre "cheval de Troie". Elle génère du cash-flow immédiat pour financer la production, mais sa croissance reste corrélée à nos efforts de production et de prospection commerciale.
+
+### B. Le Moteur de Valeur : Le SaaS (Courbe Bleue)
+* **Dynamique :** Croissance **exponentielle**.
+* **Objectif Année 3 :** Atteindre **56 k€** de revenus récurrents annuels (ARR).
+* **Analyse :** C'est ici que réside la véritable rentabilité. Chaque genouillère vendue génère un abonnement pour l'accès au Dashboard Data (utilisé par le staff médical). Les abonnements se cumulent mois après mois, avec une marge brute proche de 90%, car l'hébergement de la donnée coûte infiniment moins cher que la fabrication physique.
+
+## 4. Vision Long Terme : La "Zone de Profit" (Années 2 & 3)
+À partir de l'Année 2 (T8), l'entreprise entre dans une phase de rentabilité forte. 
+* **Le Revenu Total Combiné (Courbe Verte)** se détache nettement pour atteindre **157 k€ à l'Année 3**.
+* **L'Argument Stratégique :** Dès la troisième année, le modèle démontre que la rentabilité ne dépend plus uniquement de notre capacité à usiner du matériel. La valeur de l'entreprise bascule sur **l'exploitation récurrente de la data biomécanique** hébergée et analysée par notre IA.
+
+---
+> **En conclusion :** Ce modèle J-Curve prouve aux investisseurs que notre stratégie commerciale minimise le risque industriel à moyen terme, tout en maximisant la **LTV (Lifetime Value)** de chaque client B2B sécurisé.
 
 *Document rédigé dans le cadre d'une veille stratégique MedTech & Sport-Santé.*
