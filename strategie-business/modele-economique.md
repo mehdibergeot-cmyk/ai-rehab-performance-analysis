@@ -109,7 +109,7 @@ L'adoption d'un modèle économique hybride (HaaS) est au cœur de la stratégie
 
 Le graphique en "J-Curve" ci-dessous modélise nos projections sur les 3 premières années (T0 à T12 trimestres).
 
-![Modèle Financier J-Curve](jcurve_haas_activesense_v2.jpg)
+![Modèle Financier J-Curve](jcurve_haas_activesense_v2.png)
 *Figure 1 : Modélisation de la rentabilité croisée Hardware/SaaS et seuil de rentabilité.*
 
 ---
