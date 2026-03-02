@@ -97,7 +97,6 @@ Pour ces acteurs, acquérir Active-Sense signifie combler leur angle mort sur la
 
 ## 6. Risques & Facteurs d'Atténuation
 
-*La transparence sur les risques est un signe de maturité — les investisseurs professionnels l'attendent.*
 
 | Risque | Probabilité | Impact | Atténuation |
 | :--- | :---: | :---: | :--- |
