@@ -80,4 +80,4 @@ Spécifications publiques analysées :
 ---
 
 *Document rédigé dans le cadre d'une veille stratégique MedTech & Sport-Santé.*
-*Auteur : [Ton Nom] — Expertise Dispositifs Médicaux & Sport-Santé*
+*Auteur : Mehdi Bergeot — Expertise Dispositifs Médicaux & Sport-Santé*
