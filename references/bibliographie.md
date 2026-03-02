@@ -1,30 +1,83 @@
 # 📚 Sources & Références Documentaires
-### Fondations Scientifiques et Stratégiques du Projet "Active-Sense"
 
-Dans le secteur de la HealthTech, la crédibilité d'une innovation repose sur la fiabilité de ses données. Ce document répertorie les sources indépendantes, les rapports de marché et les standards médicaux qui valident la viabilité de notre genouillère intelligente.
+> Ce document recense les rapports de marché, normes réglementaires et publications scientifiques indépendantes sur lesquels reposent l'analyse financière, la modélisation concurrentielle et la conception clinique du projet **Active-Sense**.
+>
+> Chaque source est liée à une section précise du dossier pour garantir la traçabilité des données.
 
 ---
 
-## 1. Données de Marché (Validation du Potentiel Financier)
-Ces rapports justifient l'attractivité financière du projet et nos projections de croissance :
+## 1. Données de Marché & Projections Financières
 
-* **Grand View Research** | *Sports Technology Market Size & Trends Analysis*
-  * **Utilisation :** Validation de l'évolution du marché mondial, estimé à 9 milliards de dollars d'ici 2028.
-* **MarketsandMarkets** | *Sports Technology Market by Technology*
-  * **Utilisation :** Justification du taux de croissance annuel très fort (CAGR de +22.4%), porté par l'adoption de l'IA dans le sport.
-* **Statista HealthTech** | *Adoption des Wearables médicaux*
-  * **Utilisation :** Preuve de l'acceptation croissante des dispositifs connectés par les patients en rééducation à domicile.
+*Sources utilisées dans `STRATEGIE_COMMERCIALE.md` et `src/jcurve_investor.py` pour les projections de croissance (CAGR +22,4%) et la taille de marché (4,1 Md$ en 2024 → 9 Md$ en 2028).*
 
-## 2. Références Cliniques & Réglementaires (La Caution Médicale)
-Ces standards prouvent que le produit est pensé comme un véritable Dispositif Médical (DM), et non comme un simple gadget sportif :
+| Éditeur | Rapport | Année |
+| :--- | :--- | :---: |
+| **Grand View Research** | *Sports Technology Market Size, Share & Trends Analysis Report — By Technology (Device, Smart Stadium, Esports, Sports Analytics), Forecasts 2023–2030* | 2023 |
+| **MarketsandMarkets** | *Sports Technology Market by Device (Wearables, Smart Fabrics), Technology (IoT, AI) — Global Forecast to 2028* | 2023 |
+| **Statista** | *Digital Health & Wearable Medical Devices : Market Revenue, Penetration Rates & Projections* | 2024 |
 
-* **Norme ISO 13485** | *Management de la qualité pour les dispositifs médicaux*
-  * **Utilisation :** Fil conducteur de notre stratégie de production. Prouve aux investisseurs que les contraintes légales (Marquage CE) sont anticipées dès la phase de conception.
-* **Publications PubMed** | *Études biomécaniques sur le risque de rupture du LCA*
-  * **Utilisation :** Base scientifique de notre algorithme. Les études sur le "Valgus dynamique" (effondrement du genou) nous ont permis de définir les seuils d'alerte exacts pour déclencher la vibration de la genouillère.
-* **Journal of Orthopaedic & Sports Physical Therapy (JOSPT)**
-  * **Utilisation :** Soutien de notre vision clinique. La littérature actuelle recommande de passer d'une rééducation basée sur le temps (ex: "attendre 6 mois") à une rééducation basée sur des données objectives (ce que fait notre genouillère).
+---
 
-## 3. Origine des Modélisations & Graphiques
-* **Graphique J-Curve (Financement) :** Modélisation financière propriétaire. Construite sur les standards de rentabilité des startups utilisant un modèle hybride *HaaS* (Vente de matériel + Abonnement logiciel).
-* **Analyse Radar & Benchmark :** Étude comparative interne réalisée à partir de l'analyse des fiches techniques officielles et publiques de nos concurrents indirects (Catapult Sports, Zone7, SkillSocks).
+## 2. Fondations Cliniques & Biomécaniques (LCA)
+
+*Sources utilisées dans `src/rehab_analysis.py` pour justifier les indicateurs retenus : asymétrie biomécanique, ratio de charge ACWR, et seuil de retour au jeu.*
+
+**Hewett, T. E., et al. (2005)**
+> *Biomechanical Measures of Neuromuscular Control and Valgus Loading of the Knee Predict Anterior Cruciate Ligament Injury Risk.*
+> The American Journal of Sports Medicine.
+> → Étude de référence mondiale sur la détection du valgus dynamique — justifie le choix des capteurs IMU pour surveiller l'appui en temps réel.
+
+**Mendiguchia, J., et al. (2017)**
+> *Progression criteria for anterior cruciate ligament reconstruction rehabilitation.*
+> Journal of Orthopaedic & Sports Physical Therapy (JOSPT).
+> → Fonde les seuils de progression utilisés dans la modélisation de la courbe de rééducation (puissance explosive, semaine de Return to Play).
+
+**Gokeler, A., et al. (2019)**
+> *Return to Sports after ACL injury 5 years from now : 10 things we must do.*
+> Journal of Experimental Orthopaedics.
+> → Démontre l'efficacité du bio-feedback externe dans la rééducation post-LCA — socle scientifique du concept de genouillère Active-Sense.
+
+---
+
+## 3. Cadre Réglementaire — Dispositifs Médicaux
+
+*Sources utilisées dans `STRATEGIE_COMMERCIALE.md` (Section 2 — Capex) pour justifier les étapes obligatoires de certification avant mise sur le marché européen.*
+
+**ISO 13485:2016**
+> *Dispositifs médicaux — Systèmes de management de la qualité — Exigences à des fins réglementaires.*
+> Organisation Internationale de Normalisation, Genève.
+> → Norme qualité obligatoire pour tout fabricant de dispositifs médicaux. Conditionne la relation avec les partenaires de production certifiés.
+
+**Règlement (UE) 2017/745 — MDR**
+> *Règlement relatif aux dispositifs médicaux.*
+> Parlement européen et Conseil de l'Union européenne.
+> → Cadre légal du Marquage CE en Europe. Toute commercialisation de la genouillère Active-Sense sur le marché européen est soumise à ce règlement.
+
+---
+
+## 4. Benchmark Concurrentiel & Modélisation Financière
+
+*Sources utilisées dans `src/market_analysis.py` pour les scores comparatifs, et dans `src/jcurve_investor.py` pour la modélisation HaaS.*
+
+**Fiches techniques constructeurs (2024–2025)**
+Spécifications publiques analysées :
+- *Catapult Vector* — GPS/IMU, données de charge et d'impact
+- *Zone7 AI Platform* — algorithmes prédictifs de risque blessure
+- *SkillSocks* — capteurs de pression plantaire connectés
+
+**Modélisation HaaS (Hardware-as-a-Service)**
+> Basée sur les métriques SaaS standards publiées par **David Skok (Matrix Partners)** — LTV/CAC ratio, ARR, Churn rate — adaptées à la DeepTech médicale.
+> Référence : [forentrepreneurs.com/saas-metrics](https://www.forentrepreneurs.com/saas-metrics)
+
+---
+
+## 5. Avertissement Méthodologique
+
+> ⚠️ Les données chiffrées utilisées dans les scripts Python (`rehab_analysis.py`, `market_analysis.py`, `jcurve_investor.py`) sont des **données synthétiques générées à des fins de démonstration**. Elles s'appuient sur les ordres de grandeur et tendances issus des sources listées ci-dessus, mais ne constituent pas des données cliniques réelles.
+>
+> Ce projet a une vocation de **démonstration méthodologique** dans le cadre d'une veille stratégique MedTech & Sport-Santé.
+
+---
+
+*Document rédigé dans le cadre d'une veille stratégique MedTech & Sport-Santé.*
+*Auteur : [Ton Nom] — Expertise Dispositifs Médicaux & Sport-Santé*
