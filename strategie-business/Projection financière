@@ -11,27 +11,15 @@ Le montant de la levée est calibré pour couvrir **24 mois de Runway** (autonom
 
 ### Répartition stratégique (Use of Proceeds)
 
-```
-┌─────────────────────────────────────────────────────────────────┐
-│  40%  →  600 k€   R&D & Prototypage Industriel                 │
-│                   Miniaturisation IMU 1000Hz, Edge Computing,   │
-│                   itérations textiles & intégration capteurs    │
-├─────────────────────────────────────────────────────────────────┤
-│  25%  →  375 k€   Affaires Réglementaires & Cliniques          │
-│                   Marquage CE Classe IIa, études patients,      │
-│                   constitution dossier technique ISO 13485      │
-├─────────────────────────────────────────────────────────────────┤
-│  20%  →  300 k€   Go-to-Market & Sales                         │
-│                   Recrutement force de vente (2 TCS),           │
-│                   salons Medica / congrès orthopédie, CRM       │
-├─────────────────────────────────────────────────────────────────┤
-│  15%  →  225 k€   Trésorerie de Sécurité                       │
-│                   Absorption retards supply-chain,              │
-│                   buffer réglementaire (délais MDR imprévus)    │
-└─────────────────────────────────────────────────────────────────┘
-```
+| Poste | Montant | Détail |
+| :--- | ---: | :--- |
+| **R&D & Prototypage Industriel** | 600 k€ (40%) | Miniaturisation IMU 1000Hz, Edge Computing, itérations textiles et intégration capteurs |
+| **Affaires Réglementaires & Cliniques** | 375 k€ (25%) | Marquage CE Classe IIa, études patients, constitution dossier technique ISO 13485 |
+| **Go-to-Market & Sales** | 300 k€ (20%) | Recrutement force de vente (2 TCS), salons Medica / congrès orthopédie, CRM |
+| **Trésorerie de Sécurité** | 225 k€ (15%) | Absorption retards supply-chain, buffer réglementaire (délais MDR imprévus) |
+| **Total** | **1 500 k€** | Runway garanti : **24 mois** |
 
-> **Hypothèse de Runway :** À burn rate moyen de 62,5 k€/mois (phases R&D), le capital couvre 24 mois avec 15% de marge de sécurité intégrée.
+> **Hypothèse de Runway :** À burn rate moyen de 62,5 k€/mois (phase R&D), le capital couvre 24 mois avec 15% de marge de sécurité intégrée.
 
 ---
 
@@ -48,7 +36,7 @@ Le montant de la levée est calibré pour couvrir **24 mois de Runway** (autonom
 | Marge Brute | 35% | 48% | 65% | 75% | 82% |
 | **Marge Brute (k€)** | **30** | **202** | **1 154** | **4 913** | **14 965** |
 | OPEX (salaires, R&D, marketing) | (850) | (1 100) | (1 500) | (2 800) | (4 500) |
-| **EBITDA** | **(820)** | **(898)** | **-346** | **2 113** | **10 465** |
+| **EBITDA** | **(820)** | **(898)** | **(346)** | **2 113** | **10 465** |
 | Marge EBITDA | neg. | neg. | -19% | +32% | +57% |
 | **Cash Flow Cumulé (k€)** | (820) | (1 718) | (2 064) | +49 | +10 514 |
 
@@ -60,7 +48,7 @@ Le montant de la levée est calibré pour couvrir **24 mois de Runway** (autonom
 
 *Les indicateurs ci-dessous sont les standards utilisés par les fonds Venture Capital pour évaluer la viabilité d'un modèle SaaS B2B. Source : David Skok, Matrix Partners — [forentrepreneurs.com/saas-metrics](https://www.forentrepreneurs.com/saas-metrics)*
 
-### Cibles Année 3 (segment B2B Élite — Clubs)
+### Cibles Année 3 — Segment B2B Élite (Clubs)
 
 | Métrique | Valeur Cible | Benchmark VC | Interprétation |
 | :--- | :---: | :---: | :--- |
@@ -71,8 +59,7 @@ Le montant de la levée est calibré pour couvrir **24 mois de Runway** (autonom
 | **Churn Rate annuel (B2B)** | < 5% | < 10% = sain | Forte rétention grâce à l'intégration dans le protocole médical |
 | **NRR** (Net Revenue Retention) | > 115% | > 100% = croissance | Les clients existants augmentent leur dépense chaque année |
 
-> **Pourquoi ces métriques rassurent un investisseur :**
-> Un ratio LTV/CAC de 10:1 signifie que le modèle crée massivement de la valeur au-delà du coût d'acquisition. Combiné à un churn < 5% (les clubs ne se désabonnent pas d'un outil intégré dans leur protocole médical), le modèle génère une **base de revenus récurrents hautement prédictible**.
+> **Pourquoi ces métriques rassurent un investisseur :** Un ratio LTV/CAC de 10:1 signifie que le modèle crée massivement de la valeur au-delà du coût d'acquisition. Combiné à un churn < 5% — les clubs ne se désabonnent pas d'un outil intégré dans leur protocole médical — le modèle génère une **base de revenus récurrents hautement prédictible**.
 
 ---
 
@@ -82,36 +69,29 @@ Le montant de la levée est calibré pour couvrir **24 mois de Runway** (autonom
 
 | Scénario | ARR An 5 | Multiple ARR | Valorisation estimée |
 | :--- | ---: | :---: | ---: |
-| 🔵 **Base** *(pénétration modérée)* | 8 500 k€ | x 8 | **68 M€** |
-| 🟢 **Optimiste** *(accélération B2B2C)* | 12 000 k€ | x 10 | **120 M€** |
-| 🔴 **Conservateur** *(retards réglementaires)* | 4 500 k€ | x 6 | **27 M€** |
+| **Base** *(pénétration modérée)* | 8 500 k€ | x8 | **68 M€** |
+| **Optimiste** *(accélération B2B2C)* | 12 000 k€ | x10 | **120 M€** |
+| **Conservateur** *(retards réglementaires)* | 4 500 k€ | x6 | **27 M€** |
 
-> **Retour sur investissement pour un investisseur Seed entrant à 4 M€ de valorisation pré-money :**
-> Dans le scénario de base, le multiple de retour estimé est de **x17** en 5 ans — cohérent avec les attentes d'un fonds MedTech early-stage (cible : x10 minimum).
+> **Retour sur investissement pour un investisseur Seed entrant à 4 M€ de valorisation pré-money :** Dans le scénario de base, le multiple de retour estimé est de **x17 en 5 ans** — cohérent avec les attentes d'un fonds MedTech early-stage (cible minimum : x10).
 
 ---
 
 ## 5. Stratégie de Sortie (Exit Strategy) — Horizon 5–7 ans
 
-Les investisseurs entrent pour sortir avec une plus-value. Le positionnement d'Active-Sense à l'intersection de la **data biomécanique** et de la **rééducation médicale** ouvre deux trajectoires M&A crédibles.
+Le positionnement d'Active-Sense à l'intersection de la **data biomécanique** et de la **rééducation médicale** ouvre deux trajectoires M&A crédibles.
 
 ### Voie 1 — Rachat par un acteur MedTech
 
 **Cibles stratégiques probables :** Stryker · Medtronic · DJO Global · Ossur
 
-Ces groupes cherchent à digitaliser leurs orthèses passives (marchés actuels : prothèses, attelles). Active-Sense leur apporte en acquisition :
-- Une technologie IA embarquée prête à l'emploi (brevet déposé)
-- Un Marquage CE déjà obtenu (élimine 2–3 ans de développement interne)
-- Une base de données biomécaniques propriétaire (LCA, genou) constituant un actif défensif majeur
+Ces groupes cherchent à digitaliser leurs orthèses passives. Active-Sense leur apporte en acquisition une technologie IA embarquée prête à l'emploi (brevet déposé), un Marquage CE déjà obtenu — éliminant 2 à 3 ans de développement interne — et une base de données biomécaniques propriétaire constituant un actif défensif majeur.
 
 ### Voie 2 — Rachat par un acteur Sports Data
 
 **Cibles stratégiques probables :** Catapult Sports · Stats Perform · Hudl · Kinduct
 
-Pour ces acteurs, acquérir Active-Sense signifie :
-- Combler leur angle mort : la **biomécanique articulaire en temps réel** (vs données GPS/cardio actuelles)
-- S'ouvrir le marché de la **rééducation médicale** et des assurances sportives
-- Doubler leur TAM (Total Addressable Market) en passant du stade à la clinique
+Pour ces acteurs, acquérir Active-Sense signifie combler leur angle mort sur la biomécanique articulaire en temps réel, s'ouvrir le marché de la rééducation médicale et des assurances sportives, et doubler leur TAM (Total Addressable Market) en passant du stade à la clinique.
 
 ---
 
@@ -123,10 +103,10 @@ Pour ces acteurs, acquérir Active-Sense signifie :
 | :--- | :---: | :---: | :--- |
 | Retard Marquage CE (> 6 mois) | Élevée | Fort | 15% trésorerie de sécurité + partenaire réglementaire expérimenté |
 | Adoption lente B2B (cycle de vente long) | Moyenne | Moyen | Pilotes gratuits Année 1 avec INSEP / CERS Capbreton |
-| Concurrence grand groupe (ex: Catapult lance produit similaire) | Faible | Fort | Brevet déposé + avance sur les données cliniques accumulées |
+| Concurrence grand groupe (produit similaire) | Faible | Fort | Brevet déposé + avance sur les données cliniques accumulées |
 | Churn B2C plus élevé que prévu | Moyenne | Faible | B2C représente < 15% des revenus à l'Année 3 — impact limité |
 
 ---
 
 *Document rédigé dans le cadre d'une veille stratégique MedTech & Sport-Santé.*
-*Auteur : [Ton Nom] — Expertise Dispositifs Médicaux & Sport-Santé*
+*Auteur : Mehdi Bergeot — Expertise Dispositifs Médicaux & Sport-Santé*
