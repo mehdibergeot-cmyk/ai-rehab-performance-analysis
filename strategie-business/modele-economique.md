@@ -145,4 +145,9 @@ Le point d'inflexion majeur du projet se situe autour du 5ème trimestre (T5).
 ---
 > **En conclusion :** Ce modèle J-Curve prouve aux investisseurs que notre stratégie commerciale minimise le risque industriel à moyen terme, tout en maximisant la **LTV (Lifetime Value)** de chaque client B2B sécurisé.
 
+Note importante — Modele illustratif
+Le graphique J-Curve et les chiffres presentes dans ce document sont un modele de demonstration destine a illustrer la logique et la dynamique du modele HaaS (croissance lineaire du Hardware vs croissance exponentielle du SaaS).
+Les chiffres precis et le compte de resultat previsionnel complet sur 5 ans (CA, EBITDA, Cash Flow cumule, metriques SaaS) sont detailles dans le document dedie :
+→ Voir PROJECTIONS_FINANCIERES.md
+
 *Document rédigé dans le cadre d'une veille stratégique MedTech & Sport-Santé.*
