@@ -151,6 +151,6 @@ Le point d'inflexion majeur du projet se situe autour du 5ème trimestre (T5).
 > 
 > Pour consulter les données chiffrées exactes et le compte de résultat prévisionnel détaillé sur 5 ans (incluant CA, EBITDA, Cash-Flow cumulé et métriques SaaS), merci de vous référer au document financier dédié :
 > 
-> 📄 **[Consulter les Projections Financières](projections_financieres_5Y.md)**
+> 📄 **[Consulter les Projections Financières](projections_financieres.md)**
 
 *Document rédigé dans le cadre d'une veille stratégique MedTech & Sport-Santé.*
